@@ -8,7 +8,7 @@ Este proyecto de ecommerce se creo con WordPress y MySQL.
 1. Tener instalado Docker.
 2. Clonar el proyecto:
 
-   `` ➜  ~ git clone repository ``
+   `` git clone repository ``
 
 3. Crear las variables de entorno 1 variable de entorno a raiz del proyecto y una dentro de la carpeta html/.
 4. Modificar la tabla wp9o_options en sus campos siteurl y home, cambiamos la url por nuestra url en ambos campos por la url local que es: http://localhost:8007/
@@ -24,7 +24,7 @@ Este proyecto de ecommerce se creo con WordPress y MySQL.
 1. Debemos tener algun proyecto de WordPresss ya creado (vacío).
 2. Clonar el proyecto en nuestra maquina:
 
-   `` ➜  ~ git clone repository ``
+   `` git clone repository ``
 
 3. Debemos dirigirnos a nuestro FileManager que nos proporciona el servicio de Hosting que tengamos.
 4. Reemplazamos los archivos que se encuentran dentro de la carpeta public o Target por la carpeta html que contiene el repositorio que se clono.
