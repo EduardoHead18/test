@@ -30,8 +30,14 @@ Este proyecto de ecommerce se creo con WordPress y MySQL.
 4. Reemplazamos los archivos que se encuentran dentro de la carpeta public o Target por la carpeta html que contiene el repositorio que se clono.
 5. Dentro de la carpeta html existe un archivo llamado wp-config.php, dentro de ese archivo modificación modificaremos la conexión a la base de datos de la siguiente manera:
    
-`` define( 'DB_NAME', 'nombre de la base de datos' );
-   define( 'DB_USER', 'tu usuario' );
-   define( 'DB_PASSWORD', 'tu contraseña');
-define( 'DB_HOST', 'nombre del host' ); ``
+define( 'DB_NAME', $db );
+
+/** Database username */
+define( 'DB_USER', $dbUser );
+
+/** Database password */
+define( 'DB_PASSWORD', $dbPassword );
+
+/** Database hostname */
+define( 'DB_HOST', $dbHost );
 
