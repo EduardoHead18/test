@@ -10,7 +10,7 @@ Este proyecto de ecommerce se creo con WordPress y MySQL.
 
 `` ➜  ~ git clone repository ``
 
-3. Crear las variables de entorno.
+3. Crear las variables de entorno 1 variable de entorno a raiz del proyecto y una dentro de la carpeta html/.
 4. Modificar la tabla wp9o_options en sus campos siteurl y home, cambiamos la url por nuestra url en ambos campos por la url local que es: http://localhost:8007/
 5. Si se quiere modificar la cuenta administradora de wordpress podemos encontra la información en la tabla wp9o_options
 6. Para crear y correr el contenedor ejecutamos el siguiente comando:
