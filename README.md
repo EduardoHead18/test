@@ -1,10 +1,10 @@
 # CBTA91 ECOMMERCE 🚀
 Este proyecto de ecommerce se creo con WordPress y MySQL.
 
-![Captura de pantalla 2024-03-14 a la(s) 1 55 19 p m](https://github.com/EduardoHead18/test/assets/88681044/ef8dae81-cd12-4805-8483-078af94a4590) <br/>
+![Captura de pantalla 2024-03-14 a la(s) 1 55 19 p m](https://github.com/EduardoHead18/test/assets/88681044/ef8dae81-cd12-4805-8483-078af94a4590) <br><br>
 
 
-## Instalación con Docker <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <br/>
+## Instalación con Docker <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <br>
 1. Tener instalado Docker.
 2. Clonar el proyecto:
 
@@ -19,7 +19,7 @@ Este proyecto de ecommerce se creo con WordPress y MySQL.
 
 5. Cuando se haya creado el contenedor abrimos la url de la aplicación: http://localhost:8007/  <br/>
 
-## Instalación sin Docker en CPanel (Servicio de Hosting). <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> <br/>
+## Instalación sin Docker en CPanel (Servicio de Hosting). <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> <br><br>
 
 1. Debemos tener algun proyecto de WordPresss ya creado (vacío).
 2. Clonar el proyecto:
