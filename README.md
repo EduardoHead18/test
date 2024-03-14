@@ -1,10 +1,10 @@
 # CBTA91 ECOMMERCE 🚀
 Este proyecto de ecommerce se creo con WordPress y MySQL.
 
-![Captura de pantalla 2024-03-14 a la(s) 1 55 19 p m](https://github.com/EduardoHead18/test/assets/88681044/ef8dae81-cd12-4805-8483-078af94a4590)
+![Captura de pantalla 2024-03-14 a la(s) 1 55 19 p m](https://github.com/EduardoHead18/test/assets/88681044/ef8dae81-cd12-4805-8483-078af94a4590) \
 
 
-## Instalación con Docker <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+## Instalación con Docker <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> \
 1. Tener instalado Docker.
 2. Clonar el proyecto:
 
@@ -12,14 +12,14 @@ Este proyecto de ecommerce se creo con WordPress y MySQL.
 
 3. Crear las variables de entorno 1 variable de entorno a raiz del proyecto y una dentro de la carpeta html/.
 4. Modificar la tabla wp9o_options en sus campos siteurl y home, cambiamos la url por nuestra url en ambos campos por la url local que es: http://localhost:8007/
-5. Si se quiere modificar la cuenta administradora de wordpress podemos encontra la información en la tabla wp9o_options
+5. Si se quiere modificar la cuenta administradora de wordpress podemos encontrar la información en la tabla wp9o_options.
 6. Para crear y correr el contenedor ejecutamos el siguiente comando:
 
 `` docker compose up -d``
 
-5. Cuando se haya creado el contenedor abrimos la url de la aplicación: (http://localhost:8007/)
+5. Cuando se haya creado el contenedor abrimos la url de la aplicación: http://localhost:8007/ \
 
-## Instalación sin Docker en CPanel (Servicio de Hosting). <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+## Instalación sin Docker en CPanel (Servicio de Hosting). <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> \
 
 1. Debemos tener algun proyecto de WordPresss ya creado (vacío).
 2. Clonar el proyecto:
